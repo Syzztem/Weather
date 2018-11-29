@@ -8,7 +8,7 @@
         <mark key="]" line="27" column="6" />
         <mark key="." line="27" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543489202426">
+      <file name="/Dummy.txt" timestamp="1543500712811">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -47,6 +47,12 @@
       </file>
       <file name="/fragment.java" timestamp="1543311159057">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Weather2/.gitignore" timestamp="1543500694722">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="132" column="46" />
+        <mark key="." line="132" column="46" />
+        <mark key="^" line="132" column="46" />
       </file>
     </filemarks>
     <jumps />
@@ -110,6 +116,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
