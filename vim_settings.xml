@@ -65,10 +65,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/MainActivity.java" timestamp="1543587401726">
-        <mark key="[" line="44" column="97" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/MainActivity.java" timestamp="1543591160883">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/Student.java" timestamp="1543569720477">
         <mark key="[" line="18" column="17" />
@@ -90,8 +90,8 @@
       <jump line="44" column="18" filename="$USER_HOME$/AndroidStudioProjects/blablawild/app/src/main/res/layout/item_trip.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9kaXNwbGF5LmFwcGVuZCgiIiArIGopOwo=</text>
       </register>
       <register name="-" type="4">
         <text>A</text>
@@ -100,31 +100,31 @@
         <text>android:text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHVkZW50ICAgICBjdXJyZW50U3R1ZGVudCA9IG5ldyBTdHVkZW50KCJmZiIgLCAiZWUiLCAxNSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9kaXNwbGF5LmFwcGVuZCgiIiArIGopOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHVkZW50ICAgICBjdXJyZW50U3R1ZGVudCA9IChTdHVkZW50KSBnZXRJbnRlbnQoKS5nZXRTZXJpYWxpemFibGVFeHRyYSgiU3R1ZGVudCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHVkZW50ICAgICBjdXJyZW50U3R1ZGVudCA9IG5ldyBTdHVkZW50KCJmZiIgLCAiZWUiLCAxNSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiciIsICItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1oZXJlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHVkZW50ICAgICBjdXJyZW50U3R1ZGVudCA9IChTdHVkZW50KSBnZXRJbnRlbnQoKS5nZXRTZXJpYWxpemFibGVFeHRyYSgiU3R1ZGVudCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiciIsICItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1oZXJlIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjaGFyIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjaGFyIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZ3JhdHMgPSAK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHVkZW50KFN0cmluZyBmaXJzdG5hbWUsIFN0cmluZyBsYXN0bmFtZSwgaW50IGFnZSkgewogICAgICAgIHRoaXMuZmlyc3RuYW1lID0gZmlyc3RuYW1lOwogICAgICAgIHRoaXMubGFzdG5hbWUgPSBsYXN0bmFtZTsKICAgICAgICB0aGlzLmFnZSA9IGFnZTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29uZ3JhdHMgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHVkZW50KFN0cmluZyBmaXJzdG5hbWUsIFN0cmluZyBsYXN0bmFtZSwgaW50IGFnZSkgewogICAgICAgIHRoaXMuZmlyc3RuYW1lID0gZmlyc3RuYW1lOwogICAgICAgIHRoaXMubGFzdG5hbWUgPSBsYXN0bmFtZTsKICAgICAgICB0aGlzLmFnZSA9IGFnZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHVkZW50KFN0cmluZyBmaXJzdG5hbWUsIFN0cmluZyBsYXN0bmFtZSwgaW50IGFnZSkgewogICAgICAgIHRoaXMuZmlyc3RuYW1lID0gZmlyc3RuYW1lOwogICAgICAgIHRoaXMubGFzdG5hbWUgPSBsYXN0bmFtZTsKICAgICAgICB0aGlzLmFnZSA9IGFnZTsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/android:text/tools:text/g</text>
