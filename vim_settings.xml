@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1543574934337">
+      <file name="/Dummy.txt" timestamp="1543587070482">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -75,17 +75,32 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/blablawild/app/src/main/res/layout/item_trip.xml" timestamp="1543587046682">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="16" />
+        <mark key="^" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+      </file>
       <file name="/fragment.java" timestamp="1543573782347">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="44" column="18" filename="$USER_HOME$/AndroidStudioProjects/blablawild/app/src/main/res/layout/item_trip.xml" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHVkZW50ICAgICBjdXJyZW50U3R1ZGVudCA9IG5ldyBTdHVkZW50KCJmZiIgLCAiZWUiLCAxNSk7Cg==</text>
-      </register>
       <register name="&quot;" type="4">
         <text>A</text>
+      </register>
+      <register name="-" type="4">
+        <text>A</text>
+      </register>
+      <register name="/" type="4">
+        <text>android:text</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTdHVkZW50ICAgICBjdXJyZW50U3R1ZGVudCA9IG5ldyBTdHVkZW50KCJmZiIgLCAiZWUiLCAxNSk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHVkZW50ICAgICBjdXJyZW50U3R1ZGVudCA9IChTdHVkZW50KSBnZXRJbnRlbnQoKS5nZXRTZXJpYWxpemFibGVFeHRyYSgiU3R1ZGVudCIpOwo=</text>
@@ -111,17 +126,25 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBTdHVkZW50KFN0cmluZyBmaXJzdG5hbWUsIFN0cmluZyBsYXN0bmFtZSwgaW50IGFnZSkgewogICAgICAgIHRoaXMuZmlyc3RuYW1lID0gZmlyc3RuYW1lOwogICAgICAgIHRoaXMubGFzdG5hbWUgPSBsYXN0bmFtZTsKICAgICAgICB0aGlzLmFnZSA9IGFnZTsKICAgIH0K</text>
       </register>
-      <register name="-" type="4">
-        <text>A</text>
+      <register name=":" type="4">
+        <text>%s/android:text/tools:text/g</text>
       </register>
     </registers>
     <search>
+      <last-search>android:text</last-search>
+      <last-pattern>android:text</last-pattern>
+      <last-replace>tools:text</last-replace>
+      <last-substitute>android:text</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>android:text</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/android:text/tools:text/g</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
