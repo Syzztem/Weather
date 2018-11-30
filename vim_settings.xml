@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1543571062244">
+      <file name="/Dummy.txt" timestamp="1543574099988">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -21,7 +21,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/AndroidManifest.xml" timestamp="1543489201586">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/MainActivity.java" timestamp="1543570878568">
+      <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/MainActivity.java" timestamp="1543573617897">
         <mark key="[" line="36" column="37" />
         <mark key="]" line="36" column="37" />
         <mark key="." line="36" column="37" />
@@ -60,10 +60,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/StudentActivity.java" timestamp="1543570817556">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/StudentActivity.java" timestamp="1543573658846">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/MainActivity.java" timestamp="1543498277437">
         <mark key="[" line="44" column="97" />
@@ -75,7 +75,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1543567557497">
+      <file name="/fragment.java" timestamp="1543573782347">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
