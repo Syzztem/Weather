@@ -8,6 +8,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/JWeather.java" timestamp="1543593666665">
+        <mark key="[" line="22" column="59" />
+        <mark key="]" line="53" column="51" />
+        <mark key="." line="53" column="51" />
+        <mark key="^" line="53" column="51" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather/app/src/main/AndroidManifest.xml" timestamp="1543246984733">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="8" column="0" />
@@ -65,10 +71,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/MainActivity.java" timestamp="1543592894142">
-        <mark key="[" line="44" column="85" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/MainActivity.java" timestamp="1543593502145">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/Student.java" timestamp="1543569720477">
         <mark key="[" line="18" column="17" />
@@ -82,7 +88,7 @@
         <mark key="^" line="31" column="16" />
         <mark key="." line="31" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1543573782347">
+      <file name="/fragment.java" timestamp="1543593109015">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -91,7 +97,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXkuYXBwZW5kKCgoaiA9PSAwKSA/ICJUb2RheSIgOiAiaW4gIiArIGogLyA4ICsgIiBkYXlzIikgKyIgOiAiICsgZGVzY3JpcHRpb24gKyAiXG4iKTsK</text>
       </register>
       <register name="-" type="4">
         <text>A</text>
@@ -100,31 +106,31 @@
         <text>android:text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXkuYXBwZW5kKCgoaiA9PSAwKSA/ICJUb2RheSIgOiAiaW4gIiArIGogLyA4ICsgIiBkYXlzIikgKyIgOiAiICsgZGVzY3JpcHRpb24gKyAiXG4iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNwbGF5LmFwcGVuZCgiZXJyb3IiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9kaXNwbGF5LmFwcGVuZCgiIiArIGopOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHVkZW50ICAgICBjdXJyZW50U3R1ZGVudCA9IG5ldyBTdHVkZW50KCJmZiIgLCAiZWUiLCAxNSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0UXVldWUuYWRkKGpzb25PYmplY3RSZXF1ZXN0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHVkZW50ICAgICBjdXJyZW50U3R1ZGVudCA9IChTdHVkZW50KSBnZXRJbnRlbnQoKS5nZXRTZXJpYWxpemFibGVFeHRyYSgiU3R1ZGVudCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0UXVldWUuYWRkKGpzb25PYmplY3RSZXF1ZXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiciIsICItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1oZXJlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgICAgICAgICAgICAgdXJsICAgICAgICAgID0gImh0dHA6Ly9hcGkub3BlbndlYXRoZXJtYXAub3JnL2RhZGR0YS8yLjUvZm9yZWNhc3QvP3E9Qm9yZGVhdXgsRlImQVBQSUQ9IiArIEFQSV9LRVk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBBUElfS0VZID0gImRkNDk0OGZiOGFiNWE5MzhlYzdiY2FkMmMyYTQzYmE0IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjaGFyIAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgICAgICAgICAgICAgdXJsICAgICAgICAgID0gImh0dHA6Ly9hcGkub3BlbndlYXRoZXJtYXAub3JnL2RhdGEvMi41L2ZvcmVjYXN0Lz9xPUJvcmRlYXV4LEZSJkFQUElEPSIgKyBBUElfS0VZOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBBUElfS0VZID0gImRkNDk0OGZiOGFiNWE5MzhlYzdiY2FkMmMyYTQzYmE0IjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/android:text/tools:text/g</text>
