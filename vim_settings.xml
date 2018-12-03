@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/Geolocalisation/app/src/main/java/fr/wcs/geolocalisation/MainActivity.java" timestamp="1543826462239">
+        <mark key="[" line="22" column="93" />
+        <mark key="]" line="22" column="93" />
+        <mark key="^" line="22" column="93" />
+        <mark key="." line="22" column="93" />
+      </file>
       <file name="/Dummy.txt" timestamp="1543587070482">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -76,6 +82,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Geolocalisation/app/src/main/AndroidManifest.xml" timestamp="1543826581749">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/Student.java" timestamp="1543569720477">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="21" column="0" />
@@ -97,7 +108,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXkuYXBwZW5kKCgoaiA9PSAwKSA/ICJUb2RheSIgOiAiaW4gIiArIGogLyA4ICsgIiBkYXlzIikgKyIgOiAiICsgZGVzY3JpcHRpb24gKyAiXG4iKTsK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04iIC8+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>A</text>
@@ -106,31 +117,31 @@
         <text>android:text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXkuYXBwZW5kKCgoaiA9PSAwKSA/ICJUb2RheSIgOiAiaW4gIiArIGogLyA4ICsgIiBkYXlzIikgKyIgOiAiICsgZGVzY3JpcHRpb24gKyAiXG4iKTsK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04iIC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNwbGF5LmFwcGVuZCgiZXJyb3IiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXkuYXBwZW5kKCgoaiA9PSAwKSA/ICJUb2RheSIgOiAiaW4gIiArIGogLyA4ICsgIiBkYXlzIikgKyIgOiAiICsgZGVzY3JpcHRpb24gKyAiXG4iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNwbGF5LmFwcGVuZCgiZXJyb3IiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0UXVldWUuYWRkKGpzb25PYmplY3RSZXF1ZXN0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXF1ZXN0UXVldWUuYWRkKGpzb25PYmplY3RSZXF1ZXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgICAgICAgICAgICAgdXJsICAgICAgICAgID0gImh0dHA6Ly9hcGkub3BlbndlYXRoZXJtYXAub3JnL2RhZGR0YS8yLjUvZm9yZWNhc3QvP3E9Qm9yZGVhdXgsRlImQVBQSUQ9IiArIEFQSV9LRVk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0UXVldWUuYWRkKGpzb25PYmplY3RSZXF1ZXN0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBBUElfS0VZID0gImRkNDk0OGZiOGFiNWE5MzhlYzdiY2FkMmMyYTQzYmE0IjsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgICAgICAgICAgICAgdXJsICAgICAgICAgID0gImh0dHA6Ly9hcGkub3BlbndlYXRoZXJtYXAub3JnL2RhZGR0YS8yLjUvZm9yZWNhc3QvP3E9Qm9yZGVhdXgsRlImQVBQSUQ9IiArIEFQSV9LRVk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgICAgICAgICAgICAgdXJsICAgICAgICAgID0gImh0dHA6Ly9hcGkub3BlbndlYXRoZXJtYXAub3JnL2RhdGEvMi41L2ZvcmVjYXN0Lz9xPUJvcmRlYXV4LEZSJkFQUElEPSIgKyBBUElfS0VZOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBBUElfS0VZID0gImRkNDk0OGZiOGFiNWE5MzhlYzdiY2FkMmMyYTQzYmE0IjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBBUElfS0VZID0gImRkNDk0OGZiOGFiNWE5MzhlYzdiY2FkMmMyYTQzYmE0IjsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgICAgICAgICAgICAgdXJsICAgICAgICAgID0gImh0dHA6Ly9hcGkub3BlbndlYXRoZXJtYXAub3JnL2RhdGEvMi41L2ZvcmVjYXN0Lz9xPUJvcmRlYXV4LEZSJkFQUElEPSIgKyBBUElfS0VZOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/android:text/tools:text/g</text>
