@@ -3,18 +3,41 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/values/strings.xml" timestamp="1543915549129">
+        <mark key="[" line="7" column="51" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/WildMediaPlayer/build.gradle" timestamp="1543309703428">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/res/values/strings.xml" timestamp="1543566038486">
+        <mark key="[" line="1" column="47" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/MainActivity.java" timestamp="1543593502145">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Geolocalisation/app/src/main/AndroidManifest.xml" timestamp="1543826581749">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/Student.java" timestamp="1543569720477">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Geolocalisation/app/src/main/java/fr/wcs/geolocalisation/MainActivity.java" timestamp="1543828888197">
         <mark key="[" line="73" column="14" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543920170933">
+      <file name="/Dummy.txt" timestamp="1543921697866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/values/strings.xml" timestamp="1543915549129">
-        <mark key="[" line="7" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/JWeather.java" timestamp="1543593666665">
         <mark key="[" line="22" column="59" />
@@ -27,11 +50,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/WildMediaPlayer/build.gradle" timestamp="1543309703428">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/AndroidManifest.xml" timestamp="1543489201586">
         <mark key="[" line="3" column="0" />
       </file>
@@ -40,6 +58,11 @@
         <mark key="]" line="36" column="37" />
         <mark key="." line="36" column="37" />
         <mark key="^" line="36" column="27" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/layout/fragment_item_list.xml" timestamp="1543921738935">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/WildMediaPlayer/app/src/main/java/fr/wildcodeschool/mediaplayer/WildPlayer.java" timestamp="1543315384472">
         <mark key="[" line="92" column="22" />
@@ -61,9 +84,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/res/values/strings.xml" timestamp="1543566038486">
-        <mark key="[" line="1" column="47" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/StudentHelpler.java" timestamp="1543569636443">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="11" column="0" />
@@ -79,20 +99,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/MainActivity.java" timestamp="1543593502145">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Geolocalisation/app/src/main/AndroidManifest.xml" timestamp="1543826581749">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/Student.java" timestamp="1543569720477">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/java/fr/wildcodeschool/burgermenuv2/AboutFragment.java" timestamp="1543921659516">
+        <mark key="[" line="66" column="40" />
+        <mark key="]" line="66" column="40" />
+        <mark key="^" line="66" column="40" />
+        <mark key="." line="66" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/blablawild/app/src/main/res/layout/item_trip.xml" timestamp="1543587046682">
         <mark key="'" line="44" column="18" />
