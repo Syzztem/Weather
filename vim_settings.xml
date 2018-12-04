@@ -16,7 +16,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/java/fr/wildcodeschool/burgermenuv2/MainActivity.java" timestamp="1543924600120">
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/java/fr/wildcodeschool/burgermenuv2/MainActivity.java" timestamp="1543928058403">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -44,7 +44,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543923890872">
+      <file name="/Dummy.txt" timestamp="1543928230628">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -83,10 +83,10 @@
         <mark key="." line="132" column="46" />
         <mark key="^" line="132" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/layout/fragment_home.xml" timestamp="1543923418012">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/layout/fragment_home.xml" timestamp="1543927997293">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/build.gradle" timestamp="1543247229627">
         <mark key="[" line="27" column="6" />
@@ -136,7 +136,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5JbnRlbnQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LlVyaTsKaW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlOwo=</text>
       </register>
       <register name="-" type="4">
         <text>textView2</text>
@@ -145,31 +145,31 @@
         <text>android:text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5JbnRlbnQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LlVyaTsKaW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LkZsb2F0aW5nQWN0aW9uQnV0dG9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5JbnRlbnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LlNuYWNrYmFyOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXBsYWNlKFIuaWQubWFpbiwgZnJhZ21lbnQsIEhvbWVGcmFnbWVudC5jbGFzcy5nZXRTaW1wbGVOYW1lKCkpLmFkZFRvQmFja1N0YWNrKG51bGwpLmNvbW1pdCgpOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnRNYW5hZ2VyOwppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LnY0LmFwcC5GcmFnbWVudFRyYW5zYWN0aW9uOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIDxmcmFnbWVudAogICAgICAgIGxheW91dD0iQGxheW91dC9hcHBfYmFyX21haW4iCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9tYWluIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpuYW1lPSJmci53aWxkY29kZXNjaG9vbC5idXJnZXJtZW51djIuSG9tZUZyYWdtZW50IgogICAgICAgIHRvb2xzOmxheW91dD0iQGxheW91dC9mcmFnbWVudF9ob21lIiAvPg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LkZsb2F0aW5nQWN0aW9uQnV0dG9uOwppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LmRlc2lnbi53aWRnZXQuU25hY2tiYXI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvaGVsbG9fYmxhbmtfZnJhZ21lbnQiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gOiBhdXRvcmlzYXRpb24gZMOpasOgIGFjY2VwdMOpZSwgb24gcGV1dCBmYWlyZSB1bmUgYWN0aW9uIGljaQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/android:text/tools:text/g</text>
