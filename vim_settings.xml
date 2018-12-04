@@ -11,6 +11,16 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/layout/activity_main.xml" timestamp="1543923911406">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/java/fr/wildcodeschool/burgermenuv2/MainActivity.java" timestamp="1543923934262">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/res/values/strings.xml" timestamp="1543566038486">
         <mark key="[" line="1" column="47" />
       </file>
@@ -34,7 +44,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543921697866">
+      <file name="/Dummy.txt" timestamp="1543923890872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -73,8 +83,10 @@
         <mark key="." line="132" column="46" />
         <mark key="^" line="132" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/layout/fragment_home.xml" timestamp="1543923365803">
-        <mark key="[" line="0" column="2" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/layout/fragment_home.xml" timestamp="1543923418012">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/build.gradle" timestamp="1543247229627">
         <mark key="[" line="27" column="6" />
@@ -123,8 +135,8 @@
       <jump line="44" column="18" filename="$USER_HOME$/AndroidStudioProjects/blablawild/app/src/main/res/layout/item_trip.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>textView2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXBsYWNlKFIuaWQubWFpbiwgZnJhZ21lbnQsIEhvbWVGcmFnbWVudC5jbGFzcy5nZXRTaW1wbGVOYW1lKCkpLmFkZFRvQmFja1N0YWNrKG51bGwpLmNvbW1pdCgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>textView2</text>
@@ -133,31 +145,31 @@
         <text>android:text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXBsYWNlKFIuaWQubWFpbiwgZnJhZ21lbnQsIEhvbWVGcmFnbWVudC5jbGFzcy5nZXRTaW1wbGVOYW1lKCkpLmFkZFRvQmFja1N0YWNrKG51bGwpLmNvbW1pdCgpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gOiBhdXRvcmlzYXRpb24gZMOpasOgIGFjY2VwdMOpZSwgb24gcGV1dCBmYWlyZSB1bmUgYWN0aW9uIGljaQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIDxmcmFnbWVudAogICAgICAgIGxheW91dD0iQGxheW91dC9hcHBfYmFyX21haW4iCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9tYWluIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpuYW1lPSJmci53aWxkY29kZXNjaG9vbC5idXJnZXJtZW51djIuSG9tZUZyYWdtZW50IgogICAgICAgIHRvb2xzOmxheW91dD0iQGxheW91dC9mcmFnbWVudF9ob21lIiAvPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04iIC8+Cg==</text>
+        <text encoding="base64">ICAgIDw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXkuYXBwZW5kKCgoaiA9PSAwKSA/ICJUb2RheSIgOiAiaW4gIiArIGogLyA4ICsgIiBkYXlzIikgKyIgOiAiICsgZGVzY3JpcHRpb24gKyAiXG4iKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNwbGF5LmFwcGVuZCgiZXJyb3IiKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gOiBhdXRvcmlzYXRpb24gZMOpasOgIGFjY2VwdMOpZSwgb24gcGV1dCBmYWlyZSB1bmUgYWN0aW9uIGljaQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04iIC8+Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0UXVldWUuYWRkKGpzb25PYmplY3RSZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXkuYXBwZW5kKCgoaiA9PSAwKSA/ICJUb2RheSIgOiAiaW4gIiArIGogLyA4ICsgIiBkYXlzIikgKyIgOiAiICsgZGVzY3JpcHRpb24gKyAiXG4iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0UXVldWUuYWRkKGpzb25PYmplY3RSZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNwbGF5LmFwcGVuZCgiZXJyb3IiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgICAgICAgICAgICAgdXJsICAgICAgICAgID0gImh0dHA6Ly9hcGkub3BlbndlYXRoZXJtYXAub3JnL2RhZGR0YS8yLjUvZm9yZWNhc3QvP3E9Qm9yZGVhdXgsRlImQVBQSUQ9IiArIEFQSV9LRVk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/android:text/tools:text/g</text>
@@ -199,6 +211,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
