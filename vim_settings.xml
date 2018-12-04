@@ -8,10 +8,13 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543914226107">
+      <file name="/Dummy.txt" timestamp="1543916541042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/values/strings.xml" timestamp="1543915549129">
+        <mark key="[" line="7" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/JWeather.java" timestamp="1543593666665">
         <mark key="[" line="22" column="59" />
@@ -98,7 +101,7 @@
         <mark key="^" line="31" column="16" />
         <mark key="." line="31" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1543593109015">
+      <file name="/fragment.java" timestamp="1543914690751">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -106,11 +109,11 @@
       <jump line="44" column="18" filename="$USER_HOME$/AndroidStudioProjects/blablawild/app/src/main/res/layout/item_trip.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>textView2</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>textView2</text>
       </register>
       <register name="/" type="4">
         <text>android:text</text>
