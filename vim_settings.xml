@@ -44,7 +44,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543937722911">
+      <file name="/Dummy.txt" timestamp="1543939002063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -68,11 +68,11 @@
         <mark key="]" line="8" column="38" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1543937829851">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1543938997712">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/MainActivity.java" timestamp="1543573617897">
         <mark key="[" line="36" column="37" />
@@ -115,8 +115,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/java/fr/wcs/swipe/OnSwipeTouchListener.java" timestamp="1543937123042">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/java/fr/wcs/swipe/OnSwipeTouchListener.java" timestamp="1543939100867">
+        <mark key="[" line="7" column="11" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -143,73 +143,85 @@
         <mark key="^" line="31" column="16" />
         <mark key="." line="31" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1543937053020">
+      <file name="/fragment.java" timestamp="1543939035917">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="44" column="18" filename="$USER_HOME$/AndroidStudioProjects/blablawild/app/src/main/res/layout/item_trip.xml" />
+      <jump line="17" column="0" filename="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/java/fr/wcs/swipe/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJsZWZ0Ij4jZmYwMDAwPC9jb2xvcj4K</text>
-      </register>
-      <register name="-" type="4">
-        <text>textView2</text>
-      </register>
-      <register name="/" type="4">
-        <text>android:text</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJsZWZ0Ij4jZmYwMDAwPC9jb2xvcj4K</text>
-      </register>
-      <register name="2" type="4">
+      <register name="&quot;" type="4">
         <text>package fr.wcs.swipe;
 
 import android.view.View;
 
-public class OnSwipeTouchListener implements View.OnTouchListener {
+class OnSwipeTouchListener implements View.OnTouchListener {
+    public OnSwipeTouchListener(MainActivity mainActivity) {
+    }
 }</text>
       </register>
+      <register name="-" type="4">
+        <text>@color/down</text>
+      </register>
+      <register name="/" type="4">
+        <text>MyActivity</text>
+      </register>
+      <register name="1" type="4">
+        <text>package fr.wcs.swipe;
+
+import android.view.View;
+
+class OnSwipeTouchListener implements View.OnTouchListener {
+    public OnSwipeTouchListener(MainActivity mainActivity) {
+    }
+}</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LlVyaTsKaW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5JbnRlbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbi5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGV4Y2VwdGlvbikgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnRNYW5hZ2VyOwppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LnY0LmFwcC5GcmFnbWVudFRyYW5zYWN0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlVmlldy5zZXRDb2xvckZpbHRlcihSLmNvbG9yLmRvd24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LkZsb2F0aW5nQWN0aW9uQnV0dG9uOwppbXBvcnQgYW5kcm9pZC5zdXBwb3J0LmRlc2lnbi53aWRnZXQuU25hY2tiYXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlVmlldy5zZXRDb2xvckZpbHRlcihSLmNvbG9yLmxlZnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlVmlldy5zZXRDb2xvckZpbHRlcihSLmNvbG9yLnJpZ2h0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlVmlldy5zZXQoUi5jb2xvci51cCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/android:text/tools:text/g</text>
+        <text>%s/MyActivity/MainActivity/g</text>
       </register>
     </registers>
     <search>
-      <last-search>android:text</last-search>
-      <last-pattern>android:text</last-pattern>
-      <last-replace>tools:text</last-replace>
-      <last-substitute>android:text</last-substitute>
+      <last-search>MyActivity</last-search>
+      <last-pattern>MyActivity</last-pattern>
+      <last-replace>MainActivity</last-replace>
+      <last-substitute>MyActivity</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>android:text</entry>
+        <entry>MyActivity</entry>
       </history-search>
       <history-cmd>
         <entry>%s/android:text/tools:text/g</entry>
+        <entry>%s/MyActivity/MainActivity/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
