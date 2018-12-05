@@ -24,6 +24,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/res/values/strings.xml" timestamp="1543566038486">
         <mark key="[" line="1" column="47" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCswipe/build.gradle" timestamp="1544000380487">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/MainActivity.java" timestamp="1543593502145">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -44,7 +49,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543939002063">
+      <file name="/Dummy.txt" timestamp="1544000973877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -85,8 +90,16 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCswipe/app/src/main/java/fr/wcs/pocswipe/CardStackAdapter.java" timestamp="1544001216644">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/WildMediaPlayer/app/src/main/java/fr/wildcodeschool/mediaplayer/WildPlayer.java" timestamp="1543315384472">
         <mark key="[" line="92" column="22" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCswipe/app/build.gradle" timestamp="1544000373589">
+        <mark key="[" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/.gitignore" timestamp="1543500694722">
         <mark key="[" line="0" column="0" />
@@ -115,6 +128,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCswipe/app/src/main/java/fr/wcs/pocswipe/MainActivity.java" timestamp="1544001344721">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/java/fr/wcs/swipe/OnSwipeTouchListener.java" timestamp="1543939100867">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="0" column="0" />
@@ -136,14 +154,7 @@
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/blablawild/app/src/main/res/layout/item_trip.xml" timestamp="1543587046682">
-        <mark key="'" line="44" column="18" />
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="16" />
-        <mark key="^" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-      </file>
-      <file name="/fragment.java" timestamp="1543939035917">
+      <file name="/fragment.java" timestamp="1544001144886">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -152,15 +163,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/java/fr/wcs/swipe/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>package fr.wcs.swipe;
-
-import android.view.View;
-
-class OnSwipeTouchListener implements View.OnTouchListener {
-    public OnSwipeTouchListener(MainActivity mainActivity) {
-    }
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS55dXlha2FpZG8uYW5kcm9pZC5jYXJkc3RhY2t2aWV3LnM7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>@color/down</text>
@@ -168,39 +172,32 @@ class OnSwipeTouchListener implements View.OnTouchListener {
       <register name="/" type="4">
         <text>MyActivity</text>
       </register>
-      <register name="1" type="4">
-        <text>package fr.wcs.swipe;
-
-import android.view.View;
-
-class OnSwipeTouchListener implements View.OnTouchListener {
-    public OnSwipeTouchListener(MainActivity mainActivity) {
-    }
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS55dXlha2FpZG8uYW5kcm9pZC5jYXJkc3RhY2t2aWV3LnM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dXlha2FpZG8uYW5kcm9pZC5jYXJkc3RhY2t2aWV3Lio7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dXlha2FpZG8uYW5kcm9pZC5jYXJkc3RhY2t2aWV3LmludGVybmFsLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbi5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55dXlha2FpZG8uYW5kcm9pZC5jYXJkc3RhY2t2aWV3Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGV4Y2VwdGlvbikgewo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlVmlldy5zZXRDb2xvckZpbHRlcihSLmNvbG9yLmRvd24pOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5idW1wdGVjaC5nbGlkZS5HbGlkZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlVmlldy5zZXRDb2xvckZpbHRlcihSLmNvbG9yLmxlZnQpOwo=</text>
+        <text encoding="base64">cGFja2FnZSBmci53Y3MucG9jc3dpcGU7CgpwdWJsaWMgY2xhc3MgQ2FyZFN0YWNrQWRhcHRlciB7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlVmlldy5zZXRDb2xvckZpbHRlcihSLmNvbG9yLnJpZ2h0KTsK</text>
+        <text encoding="base64">ICAgICAgICBDYXJkU3RhY2tMYXlvdXRNYW5hZ2VyIHN3aXBlTGF5b3V0ID0gbmV3IENhcmRTdGFja0xheW91dE1hbmFnZXIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlVmlldy5zZXQoUi5jb2xvci51cCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiAnY29tLnl1eWFrYWlkby5hbmRyb2lkOmNhcmQtc3RhY2stdmlldzoyLjEuMCcK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MyActivity/MainActivity/g</text>
