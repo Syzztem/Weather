@@ -49,7 +49,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544000973877">
+      <file name="/Dummy.txt" timestamp="1544004545281">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -73,9 +73,9 @@
         <mark key="]" line="8" column="38" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1543938997712">
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1544004142533">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="29" column="0" />
+        <mark key="[" line="42" column="35" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
@@ -157,7 +157,7 @@
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1544001144886">
+      <file name="/fragment.java" timestamp="1544004667671">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
