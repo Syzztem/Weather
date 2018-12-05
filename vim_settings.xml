@@ -49,10 +49,11 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544005284827">
+      <file name="/Dummy.txt" timestamp="1544010540315">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/JWeather.java" timestamp="1543593666665">
         <mark key="[" line="22" column="59" />
@@ -79,6 +80,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe2/app/src/main/res/values/strings.xml" timestamp="1544007395857">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/MainActivity.java" timestamp="1543573617897">
         <mark key="[" line="36" column="37" />
         <mark key="]" line="36" column="37" />
@@ -103,6 +109,16 @@
         <mark key="]" line="16" column="8" />
         <mark key="^" line="16" column="8" />
         <mark key="." line="16" column="8" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe2/app/src/main/java/fr/wcs/swipe/FragTemplate.java" timestamp="1544009596683">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe2/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1544010771074">
+        <mark key="[" line="21" column="75" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/.gitignore" timestamp="1543500694722">
         <mark key="[" line="0" column="0" />
@@ -157,7 +173,12 @@
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1544004667671">
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe2/app/src/main/java/fr/wcs/swipe/ViewPagerAdapter.java" timestamp="1544009855223">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1544009714218">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -167,40 +188,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dXlha2FpZG8uYW5kcm9pZC5jYXJkc3RhY2t2aWV3LnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25zdHJhaW50TGF5b3V0IGNvbnN0cmFpbnRMYXlvdXQgPSBmaW5kVmlld0J5SWQoUi5pZC5jb25zdHJhaW50TGF5b3V0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>@color/down</text>
+        <text>android.support.constraint.ConstraintLayout</text>
       </register>
       <register name="/" type="4">
         <text>MyActivity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dXlha2FpZG8uYW5kcm9pZC5jYXJkc3RhY2t2aWV3LnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25zdHJhaW50TGF5b3V0IGNvbnN0cmFpbnRMYXlvdXQgPSBmaW5kVmlld0J5SWQoUi5pZC5jb25zdHJhaW50TGF5b3V0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dXlha2FpZG8uYW5kcm9pZC5jYXJkc3RhY2t2aWV3Lio7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUYWJMYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dXlha2FpZG8uYW5kcm9pZC5jYXJkc3RhY2t2aWV3LmludGVybmFsLgo=</text>
+        <text encoding="base64">aW1wb3J0IGZyLndjcy5zd2lwZS5GcmFnVGVtcGxhdGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55dXlha2FpZG8uYW5kcm9pZC5jYXJkc3RhY2t2aWV3Lgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsgLy9kb2VzIG5vdCBoYXBwZW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5idW1wdGVjaC5nbGlkZS5HbGlkZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAyOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBmci53Y3MucG9jc3dpcGU7CgpwdWJsaWMgY2xhc3MgQ2FyZFN0YWNrQWRhcHRlciB7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQ2hpbGRGcmFnbWVudDIoKTsgLy9DaGlsZEZyYWdtZW50MiBhdCBwb3NpdGlvbiAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDYXJkU3RhY2tMYXlvdXRNYW5hZ2VyIHN3aXBlTGF5b3V0ID0gbmV3IENhcmRTdGFja0xheW91dE1hbmFnZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAxOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiAnY29tLnl1eWFrYWlkby5hbmRyb2lkOmNhcmQtc3RhY2stdmlldzoyLjEuMCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQ2hpbGRGcmFnbWVudDEoKTsgLy9DaGlsZEZyYWdtZW50MSBhdCBwb3NpdGlvbiAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MyActivity/MainActivity/g</text>
