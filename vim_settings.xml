@@ -69,6 +69,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/AndroidManifest.xml" timestamp="1543489201586">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe3/app/src/main/java/fr/wcs/swipe/OnSwipeTouchListener.java" timestamp="1544010875332">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/res/values/colors.xml" timestamp="1543937400887">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="8" column="38" />
@@ -173,12 +178,15 @@
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe3/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1544010934722">
+        <mark key="[" line="10" column="46" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Swipe2/app/src/main/java/fr/wcs/swipe/ViewPagerAdapter.java" timestamp="1544009855223">
         <mark key="[" line="23" column="16" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544009714218">
+      <file name="/fragment.java" timestamp="1544010854479">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -188,7 +196,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zdHJhaW50TGF5b3V0IGNvbnN0cmFpbnRMYXlvdXQgPSBmaW5kVmlld0J5SWQoUi5pZC5jb25zdHJhaW50TGF5b3V0KTsK</text>
+        <text encoding="base64">cGFja2FnZSBmci53Y3Muc3dpcGU7CgpwdWJsaWMgY2xhc3MgT25Td2lwZVRvdWNoTGlzdGVuZXIgewp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>android.support.constraint.ConstraintLayout</text>
@@ -197,31 +205,31 @@
         <text>MyActivity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zdHJhaW50TGF5b3V0IGNvbnN0cmFpbnRMYXlvdXQgPSBmaW5kVmlld0J5SWQoUi5pZC5jb25zdHJhaW50TGF5b3V0KTsK</text>
+        <text encoding="base64">cGFja2FnZSBmci53Y3Muc3dpcGU7CgpwdWJsaWMgY2xhc3MgT25Td2lwZVRvdWNoTGlzdGVuZXIgewp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUYWJMYQo=</text>
+        <text encoding="base64">ICAgICAgICBDb25zdHJhaW50TGF5b3V0IGNvbnN0cmFpbnRMYXlvdXQgPSBmaW5kVmlld0J5SWQoUi5pZC5jb25zdHJhaW50TGF5b3V0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZyLndjcy5zd2lwZS5GcmFnVGVtcGxhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUYWJMYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGZyLndjcy5zd2lwZS5GcmFnVGVtcGxhdGU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsgLy9kb2VzIG5vdCBoYXBwZW4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAyOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsgLy9kb2VzIG5vdCBoYXBwZW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQ2hpbGRGcmFnbWVudDIoKTsgLy9DaGlsZEZyYWdtZW50MiBhdCBwb3NpdGlvbiAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAyOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAxOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQ2hpbGRGcmFnbWVudDIoKTsgLy9DaGlsZEZyYWdtZW50MiBhdCBwb3NpdGlvbiAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQ2hpbGRGcmFnbWVudDEoKTsgLy9DaGlsZEZyYWdtZW50MSBhdCBwb3NpdGlvbiAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAxOgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MyActivity/MainActivity/g</text>
