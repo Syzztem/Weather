@@ -183,12 +183,10 @@
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Swipe3/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1544106797222">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="46" column="29" />
-        <mark key="^" line="46" column="29" />
-        <mark key="o" line="66" column="11" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe3/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1544108529466">
+        <mark key="[" line="50" column="49" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Swipe2/app/src/main/java/fr/wcs/swipe/ViewPagerAdapter.java" timestamp="1544009855223">
         <mark key="[" line="23" column="16" />
@@ -205,7 +203,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJkb25lIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>TextView</text>
@@ -214,31 +212,31 @@
         <text>MyActivity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJkb25lIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50Rmxvb3IgPSAoZmxvb3IgPiBjdXJyZW50Rmxvb3IpID8gY3VycmVudEZsb29yICsgMSA6IGN1cnJlbnRGbG9vciAtIDE7CiAgICAgICAgVGV4dFZpZXcgZmxvb3JDb3VudCA9IChUZXh0VmlldykgZmluZFZpZXdCeUlkKFIuaWQuZmxvb3JfY291bnQpOwogICAgICAgIGZsb29yQ291bnQuc2V0VGV4dChTdHJpbmcudmFsdWVPZihjdXJyZW50Rmxvb3IpKTsKICAgICAgICBtb3ZlTmV4dEZsb29yKGZsb29yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgT2JqZWN0IGRvSW5CYWNrZ3JvdW5kKCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50Rmxvb3IgPSAoZmxvb3IgPiBjdXJyZW50Rmxvb3IpID8gY3VycmVudEZsb29yICsgMSA6IGN1cnJlbnRGbG9vciAtIDE7CiAgICAgICAgVGV4dFZpZXcgZmxvb3JDb3VudCA9IChUZXh0VmlldykgZmluZFZpZXdCeUlkKFIuaWQuZmxvb3JfY291bnQpOwogICAgICAgIGZsb29yQ291bnQuc2V0VGV4dChTdHJpbmcudmFsdWVPZihjdXJyZW50Rmxvb3IpKTsKICAgICAgICBtb3ZlTmV4dEZsb29yKGZsb29yKTsK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgL2hvbWUvbG91aXMvQW5kcm9pZFN0dWRpb1Byb2plY3RzL1N3aXBlMy9hcHAvc3JjL21haW4vamF2YS9mci93Y3Mvc3dpcGUvTWFpbkFjdGl2aXR5LmphdmEK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92ZU5leHRGbG9vcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIDogw6AgY29tcGzDqXRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFpbkFjdGl2aXR5Lgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92ZSgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50Rmxvb3IgPSAoZmxvb3IgPiBjdXJyZW50Rmxvb3IpID8gY3VycmVudEZsb29yICsgMSA6IGN1cnJlbnRGbG9vciAtIDE7CiAgICAgICAgVGV4dFZpZXcgZmxvb3JDb3VudCA9IChUZXh0VmlldykgZmluZFZpZXdCeUlkKFIuaWQuZmxvb3JfY291bnQpOwogICAgICAgIGZsb29yQ291bnQuc2V0VGV4dChTdHJpbmcudmFsdWVPZihjdXJyZW50Rmxvb3IpKTsKICAgICAgICBtb3ZlTmV4dEZsb29yKGZsb29yKTsK</text>
+        <text encoding="base64">ICAgICAgICBtb3ZlTmV4dEZsb29yKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MyActivity/MainActivity/g</text>
