@@ -49,10 +49,10 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544010540315">
+      <file name="/Dummy.txt" timestamp="1544092113418">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/JWeather.java" timestamp="1543593666665">
@@ -197,11 +197,11 @@
       <jump line="17" column="0" filename="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/java/fr/wcs/swipe/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>button20</text>
       </register>
       <register name="-" type="4">
-        <text>android.support.constraint.ConstraintLayout</text>
+        <text>button20</text>
       </register>
       <register name="/" type="4">
         <text>MyActivity</text>
