@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/build.gradle" timestamp="1544179697997">
+        <mark key="[" line="20" column="13" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/values/strings.xml" timestamp="1543915549129">
         <mark key="[" line="7" column="51" />
       </file>
@@ -29,6 +32,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/java/fr/wcs/pocswipe/MainActivity.java" timestamp="1544180597662">
+        <mark key="[" line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/MainActivity.java" timestamp="1543593502145">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -49,7 +55,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544179283787">
+      <file name="/Dummy.txt" timestamp="1544180711117">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
