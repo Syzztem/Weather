@@ -26,10 +26,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/java/fr/wcs/pocswipe/CardStackAdapter.java" timestamp="1544190918831">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/java/fr/wcs/pocswipe/CardStackAdapter.java" timestamp="1544198372765">
+        <mark key="'" line="59" column="56" />
+        <mark key="[" line="61" column="58" />
+        <mark key="]" line="61" column="16" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/java/fr/wcs/pocswipe/MainActivity.java" timestamp="1544181550218">
         <mark key="[" line="14" column="0" />
@@ -127,15 +129,21 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/java/fr/wcs/pocswipe/Card.java" timestamp="1544198256882">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Geolocalisation/app/src/main/java/fr/wcs/geolocalisation/MainActivity.java" timestamp="1543828888197">
         <mark key="[" line="73" column="14" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544197561357">
+      <file name="/Dummy.txt" timestamp="1544198229509">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="8" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather/app/src/main/AndroidManifest.xml" timestamp="1543246984733">
@@ -195,64 +203,71 @@
     <jumps>
       <jump line="44" column="18" filename="$USER_HOME$/AndroidStudioProjects/blablawild/app/src/main/res/layout/item_trip.xml" />
       <jump line="17" column="0" filename="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/java/fr/wcs/swipe/MainActivity.java" />
+      <jump line="59" column="56" filename="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/java/fr/wcs/pocswipe/CardStackAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>textView4</text>
+        <text>textView3</text>
       </register>
       <register name="-" type="4">
-        <text>textView4</text>
+        <text>textView3</text>
       </register>
       <register name="/" type="4">
-        <text>MyActivity</text>
+        <text>:%s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic3dMIj5Td2lwZSBsZWZ0PC9zdHJpbmc+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJCYXNlUHVycGxlIj4jOGYwMGMyPC9jb2xvcj4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ueXV5YWthaWRvLmFuZHJvaWQuY2FyZHN0YWNrdmlldy5zYW1wbGU7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgU3BvdCB7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBmci53Y3MucG9jc3dpcGU7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBDYXJkKCkgewogICAgICAgIHRoaXMuaWQgPSBjb3VudGVyKys7CiAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmlkID0gaWQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElkKGxvbmcgaWQpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWUgPSB0aW1lOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvY2F0aW9uID0gbG9jYXRpb247Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnB1cnBvc2UgPSBwdXJwb3NlOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZ1bGxuYW1lID0gZnVsbG5hbWU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/MyActivity/MainActivity/g</text>
+        <text>%s/city/purpose/g</text>
       </register>
     </registers>
     <search>
-      <last-search>MyActivity</last-search>
-      <last-pattern>MyActivity</last-pattern>
-      <last-replace>MainActivity</last-replace>
-      <last-substitute>MyActivity</last-substitute>
-      <last-dir>0</last-dir>
+      <last-search>:%s</last-search>
+      <last-offset />
+      <last-pattern>:%s</last-pattern>
+      <last-replace>purpose</last-replace>
+      <last-substitute>city</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>android:text</entry>
         <entry>MyActivity</entry>
+        <entry>name</entry>
+        <entry>city</entry>
+        <entry>:%s</entry>
       </history-search>
       <history-cmd>
         <entry>%s/android:text/tools:text/g</entry>
         <entry>%s/MyActivity/MainActivity/g</entry>
+        <entry>%s/name/fullname/g</entry>
+        <entry>%s/city/purpose/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
