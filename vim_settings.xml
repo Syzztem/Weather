@@ -104,6 +104,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/values/strings.xml" timestamp="1543915549129">
         <mark key="[" line="7" column="51" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/res/layout/card.xml" timestamp="1544195842769">
+        <mark key="[" line="29" column="15" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/java/fr/wildcodeschool/burgermenuv2/MainActivity.java" timestamp="1543928058403">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -122,9 +125,9 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544192058306">
+      <file name="/Dummy.txt" timestamp="1544195943470">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
@@ -188,10 +191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TextView</text>
+        <text>imageView</text>
       </register>
       <register name="-" type="4">
-        <text>TextView</text>
+        <text>imageView</text>
       </register>
       <register name="/" type="4">
         <text>MyActivity</text>
