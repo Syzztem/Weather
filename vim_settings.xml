@@ -49,7 +49,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544104393891">
+      <file name="/Dummy.txt" timestamp="1544179283787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -183,11 +183,10 @@
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Swipe3/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1544112000443">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="85" />
-        <mark key="^" line="67" column="18" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe3/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1544179217098">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Swipe2/app/src/main/java/fr/wcs/swipe/ViewPagerAdapter.java" timestamp="1544009855223">
         <mark key="[" line="23" column="16" />
@@ -204,40 +203,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAicnIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGN1cnJlbnRGbG9vciArIA==</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>MyActivity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAicnIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJyciIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudEZsb29yICs9IChmbG9vciA+IGN1cnJlbnRGbG9vcikgPyAxIDogLTE7CiAgICAgICAgICAgIFRleHRWaWV3IGZsb29yQ291bnQgPSBmaW5kVmlld0J5SWQoUi5pZC5mbG9vcl9jb3VudCk7CiAgICAgICAgICAgIGZsb29yQ291bnQuc2V0VGV4dChTdHJpbmcudmFsdWVPZihjdXJyZW50Rmxvb3IpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW92ZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJyciIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgdm9pZCBvblBvc3RFeGVjdXRlKExvbmcgcmVzdWx0KXsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudEZsb29yICs9IChmbG9vciA+IGN1cnJlbnRGbG9vcikgPyAxIDogLTE7CiAgICAgICAgICAgIFRleHRWaWV3IGZsb29yQ291bnQgPSBmaW5kVmlld0J5SWQoUi5pZC5mbG9vcl9jb3VudCk7CiAgICAgICAgICAgIGZsb29yQ291bnQuc2V0VGV4dChTdHJpbmcudmFsdWVPZihjdXJyZW50Rmxvb3IpKTsK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTW92ZUxpZnQoKS5leGVjdXRlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MyActivity/MainActivity/g</text>
