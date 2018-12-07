@@ -13,8 +13,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/res/values/strings.xml" timestamp="1544192035737">
-        <mark key="[" line="2" column="5" />
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/res/values/strings.xml" timestamp="1544196734054">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/res/values/strings.xml" timestamp="1543566038486">
         <mark key="[" line="1" column="47" />
@@ -38,6 +40,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/res/values/colors.xml" timestamp="1544196362560">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="44" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/Student.java" timestamp="1543569720477">
         <mark key="[" line="18" column="17" />
@@ -98,14 +105,14 @@
       <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/res/layout/activity_main.xml" timestamp="1544181737365">
         <mark key="[" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/build.gradle" timestamp="1544179697997">
-        <mark key="[" line="20" column="13" />
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/build.gradle" timestamp="1544196586261">
+        <mark key="[" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/values/strings.xml" timestamp="1543915549129">
         <mark key="[" line="7" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/res/layout/card.xml" timestamp="1544195842769">
-        <mark key="[" line="29" column="15" />
+        <mark key="[" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/java/fr/wildcodeschool/burgermenuv2/MainActivity.java" timestamp="1543928058403">
         <mark key="[" line="2" column="0" />
@@ -125,10 +132,10 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544195943470">
+      <file name="/Dummy.txt" timestamp="1544197561357">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather/app/src/main/AndroidManifest.xml" timestamp="1543246984733">
@@ -191,40 +198,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>imageView</text>
+        <text>textView4</text>
       </register>
       <register name="-" type="4">
-        <text>imageView</text>
+        <text>textView4</text>
       </register>
       <register name="/" type="4">
         <text>MyActivity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ueXV5YWthaWRvLmFuZHJvaWQuY2FyZHN0YWNrdmlldy5zYW1wbGU7Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic3dMIj5Td2lwZSBsZWZ0PC9zdHJpbmc+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJCYXNlUHVycGxlIj4jOGYwMGMyPC9jb2xvcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgU3BvdCB7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20ueXV5YWthaWRvLmFuZHJvaWQuY2FyZHN0YWNrdmlldy5zYW1wbGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBmci53Y3MucG9jc3dpcGU7Cg==</text>
+        <text encoding="base64">Y2xhc3MgU3BvdCB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">cGFja2FnZSBmci53Y3MucG9jc3dpcGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0SXRlbUNvdW50KCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MyActivity/MainActivity/g</text>
