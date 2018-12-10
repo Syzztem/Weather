@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/build.gradle" timestamp="1544196586261">
+        <mark key="[" line="21" column="13" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/values/strings.xml" timestamp="1543915549129">
+        <mark key="[" line="7" column="51" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/WildMediaPlayer/build.gradle" timestamp="1543309703428">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -13,10 +19,21 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/res/layout/card.xml" timestamp="1544195842769">
+        <mark key="[" line="31" column="15" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/res/values/strings.xml" timestamp="1544196734054">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="42" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/java/fr/wildcodeschool/burgermenuv2/MainActivity.java" timestamp="1543928058403">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/CardStackView/sample/src/main/res/values/strings.xml" timestamp="1544182296203">
+        <mark key="[" line="4" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/res/values/strings.xml" timestamp="1543566038486">
         <mark key="[" line="1" column="47" />
@@ -38,6 +55,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/MainActivity.java" timestamp="1543593502145">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Geolocalisation/app/src/main/AndroidManifest.xml" timestamp="1543826581749">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -53,6 +75,29 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/java/fr/wcs/pocswipe/Card.java" timestamp="1544198256882">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Geolocalisation/app/src/main/java/fr/wcs/geolocalisation/MainActivity.java" timestamp="1544431597104">
+        <mark key="[" line="78" column="5" />
+        <mark key="]" line="78" column="3" />
+        <mark key="." line="78" column="3" />
+        <mark key="^" line="78" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1544198229509">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Weather/app/src/main/AndroidManifest.xml" timestamp="1543246984733">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/AndroidManifest.xml" timestamp="1543489201586">
         <mark key="[" line="3" column="0" />
       </file>
@@ -66,91 +111,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/POCswipe/app/src/main/java/fr/wcs/pocswipe/CardStackAdapter.java" timestamp="1544001216644">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/WildMediaPlayer/app/src/main/java/fr/wildcodeschool/mediaplayer/WildPlayer.java" timestamp="1543315384472">
-        <mark key="[" line="92" column="22" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/layout/fragment_home.xml" timestamp="1543927997293">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/StudentHelpler.java" timestamp="1543569636443">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Swipe3/app/src/main/res/layout/activity_main.xml" timestamp="1544103230331">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="39" />
-        <mark key="." line="101" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/java/fr/wcs/pocswipe/Spot.java" timestamp="1544183453576">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Swipe3/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1544179217098">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Swipe2/app/src/main/java/fr/wcs/swipe/ViewPagerAdapter.java" timestamp="1544009855223">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/res/layout/activity_main.xml" timestamp="1544181737365">
-        <mark key="[" line="6" column="33" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/build.gradle" timestamp="1544196586261">
-        <mark key="[" line="21" column="13" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/values/strings.xml" timestamp="1543915549129">
-        <mark key="[" line="7" column="51" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/res/layout/card.xml" timestamp="1544195842769">
-        <mark key="[" line="31" column="15" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/java/fr/wildcodeschool/burgermenuv2/MainActivity.java" timestamp="1543928058403">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/CardStackView/sample/src/main/res/values/strings.xml" timestamp="1544182296203">
-        <mark key="[" line="4" column="41" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/src/main/java/com/example/louis/weather/MainActivity.java" timestamp="1543593502145">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/java/fr/wcs/pocswipe/Card.java" timestamp="1544198256882">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-        <mark key="^" line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Geolocalisation/app/src/main/java/fr/wcs/geolocalisation/MainActivity.java" timestamp="1543828888197">
-        <mark key="[" line="73" column="14" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1544198229509">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Weather/app/src/main/AndroidManifest.xml" timestamp="1543246984733">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Swipe/app/src/main/res/values/colors.xml" timestamp="1543937400887">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="8" column="38" />
@@ -160,6 +120,14 @@
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCswipe/app/src/main/java/fr/wcs/pocswipe/CardStackAdapter.java" timestamp="1544001216644">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/WildMediaPlayer/app/src/main/java/fr/wildcodeschool/mediaplayer/WildPlayer.java" timestamp="1543315384472">
+        <mark key="[" line="92" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Swipe2/app/src/main/java/fr/wcs/swipe/FragTemplate.java" timestamp="1544009596683">
         <mark key="[" line="19" column="0" />
@@ -171,10 +139,20 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BurgerMenuv2/app/src/main/res/layout/fragment_home.xml" timestamp="1543927997293">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Weather2/app/build.gradle" timestamp="1543247229627">
         <mark key="[" line="27" column="6" />
         <mark key="]" line="27" column="6" />
         <mark key="." line="27" column="6" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/bordeaux-1118-java-checkpoint1/app/src/main/java/fr/wildcodeschool/checkpoint1/StudentHelpler.java" timestamp="1543569636443">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/POCswipe/app/src/main/java/fr/wcs/pocswipe/MainActivity.java" timestamp="1544002370769">
         <mark key="[" line="6" column="0" />
@@ -196,8 +174,31 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe3/app/src/main/res/layout/activity_main.xml" timestamp="1544103230331">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="39" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/java/fr/wcs/pocswipe/Spot.java" timestamp="1544183453576">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe3/app/src/main/java/fr/wcs/swipe/MainActivity.java" timestamp="1544179217098">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Swipe2/app/src/main/java/fr/wcs/swipe/ViewPagerAdapter.java" timestamp="1544009855223">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1544183410616">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/res/layout/activity_main.xml" timestamp="1544181737365">
+        <mark key="[" line="6" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -207,7 +208,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>textView3</text>
+        <text encoding="base64">IHByaXZhdGUgdm9pZCBjaGVja1Blcm1pc3Npb24oKSB7CgogICAgICAgICAgICAvLyB2w6lyaWZpY2F0aW9uIGRlIGwnYXV0b3Jpc2F0aW9uIGQnYWNjw6lkZXIgw6AgbGEgcG9zaXRpb24gR1BTCgogICAgICAgICAgICBpZiAoQ29udGV4dENvbXBhdC5jaGVja1NlbGZQZXJtaXNzaW9uKE1haW5BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04pCiAgICAgICAgICAgICAgICAgICAgIT0gUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9HUkFOVEVEKSB7CgogICAgICAgICAgICAgICAgLy8gbCdhdXRvcmlzYXRpb24gbidlc3QgcGFzIGFjY2VwdMOpZQoKICAgICAgICAgICAgICAgIGlmIChBY3Rpdml0eUNvbXBhdC5zaG91bGRTaG93UmVxdWVzdFBlcm1pc3Npb25SYXRpb25hbGUoTWFpbkFjdGl2aXR5LnRoaXMsCiAgICAgICAgICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04pKSB7CgogICAgICAgICAgICAgICAgICAgIC8vIGwnYXV0b3Jpc2F0aW9uIGEgw6l0w6kgcmVmdXPDqWUgcHLDqWPDqWRlbW1lbnQsIG9uIHBldXQgcHLDqXZlbmlyIGwndXRpbGlzYXRldXIgaWNpCgogICAgICAgICAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgICAgICAgICAgICAgLy8gbCdhdXRvcmlzYXRpb24gbidhIGphbWFpcyDDqXTDqSByw6ljbGFtw6llLCBvbiBsYSBkZW1hbmRlIMOgIGwndXRpbGlzYXRldXIKCiAgICAgICAgICAgICAgICAgICAgQWN0aXZpdHlDb21wYXQucmVxdWVzdFBlcm1pc3Npb25zKE1haW5BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFN0cmluZ1tde01hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT059LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAwKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgIGluaXRMb2NhdGlvbigpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>textView3</text>
@@ -215,32 +216,32 @@
       <register name="/" type="4">
         <text>:%s</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHByaXZhdGUgdm9pZCBjaGVja1Blcm1pc3Npb24oKSB7CgogICAgICAgICAgICAvLyB2w6lyaWZpY2F0aW9uIGRlIGwnYXV0b3Jpc2F0aW9uIGQnYWNjw6lkZXIgw6AgbGEgcG9zaXRpb24gR1BTCgogICAgICAgICAgICBpZiAoQ29udGV4dENvbXBhdC5jaGVja1NlbGZQZXJtaXNzaW9uKE1haW5BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04pCiAgICAgICAgICAgICAgICAgICAgIT0gUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9HUkFOVEVEKSB7CgogICAgICAgICAgICAgICAgLy8gbCdhdXRvcmlzYXRpb24gbidlc3QgcGFzIGFjY2VwdMOpZQoKICAgICAgICAgICAgICAgIGlmIChBY3Rpdml0eUNvbXBhdC5zaG91bGRTaG93UmVxdWVzdFBlcm1pc3Npb25SYXRpb25hbGUoTWFpbkFjdGl2aXR5LnRoaXMsCiAgICAgICAgICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04pKSB7CgogICAgICAgICAgICAgICAgICAgIC8vIGwnYXV0b3Jpc2F0aW9uIGEgw6l0w6kgcmVmdXPDqWUgcHLDqWPDqWRlbW1lbnQsIG9uIHBldXQgcHLDqXZlbmlyIGwndXRpbGlzYXRldXIgaWNpCgogICAgICAgICAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgICAgICAgICAgICAgLy8gbCdhdXRvcmlzYXRpb24gbidhIGphbWFpcyDDqXTDqSByw6ljbGFtw6llLCBvbiBsYSBkZW1hbmRlIMOgIGwndXRpbGlzYXRldXIKCiAgICAgICAgICAgICAgICAgICAgQWN0aXZpdHlDb21wYXQucmVxdWVzdFBlcm1pc3Npb25zKE1haW5BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFN0cmluZ1tde01hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT059LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAwKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgIGluaXRMb2NhdGlvbigpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDYXJkKCkgewogICAgICAgIHRoaXMuaWQgPSBjb3VudGVyKys7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDYXJkKCkgewogICAgICAgIHRoaXMuaWQgPSBjb3VudGVyKys7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlkID0gaWQ7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElkKGxvbmcgaWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlkID0gaWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWUgPSB0aW1lOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElkKGxvbmcgaWQpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvY2F0aW9uID0gbG9jYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWUgPSB0aW1lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnB1cnBvc2UgPSBwdXJwb3NlOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvY2F0aW9uID0gbG9jYXRpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZ1bGxuYW1lID0gZnVsbG5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnB1cnBvc2UgPSBwdXJwb3NlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/city/purpose/g</text>
@@ -293,6 +294,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
