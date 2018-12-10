@@ -81,11 +81,10 @@
         <mark key="." line="32" column="3" />
         <mark key="^" line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Geolocalisation/app/src/main/java/fr/wcs/geolocalisation/MainActivity.java" timestamp="1544431597104">
-        <mark key="[" line="78" column="5" />
-        <mark key="]" line="78" column="3" />
-        <mark key="." line="78" column="3" />
-        <mark key="^" line="78" column="3" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Geolocalisation/app/src/main/java/fr/wcs/geolocalisation/MainActivity.java" timestamp="1544432647039">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="43" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1544198229509">
         <mark key="[" line="0" column="0" />
@@ -207,8 +206,8 @@
       <jump line="59" column="56" filename="$USER_HOME$/AndroidStudioProjects/POCSwipe/app/src/main/java/fr/wcs/pocswipe/CardStackAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHByaXZhdGUgdm9pZCBjaGVja1Blcm1pc3Npb24oKSB7CgogICAgICAgICAgICAvLyB2w6lyaWZpY2F0aW9uIGRlIGwnYXV0b3Jpc2F0aW9uIGQnYWNjw6lkZXIgw6AgbGEgcG9zaXRpb24gR1BTCgogICAgICAgICAgICBpZiAoQ29udGV4dENvbXBhdC5jaGVja1NlbGZQZXJtaXNzaW9uKE1haW5BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04pCiAgICAgICAgICAgICAgICAgICAgIT0gUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9HUkFOVEVEKSB7CgogICAgICAgICAgICAgICAgLy8gbCdhdXRvcmlzYXRpb24gbidlc3QgcGFzIGFjY2VwdMOpZQoKICAgICAgICAgICAgICAgIGlmIChBY3Rpdml0eUNvbXBhdC5zaG91bGRTaG93UmVxdWVzdFBlcm1pc3Npb25SYXRpb25hbGUoTWFpbkFjdGl2aXR5LnRoaXMsCiAgICAgICAgICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04pKSB7CgogICAgICAgICAgICAgICAgICAgIC8vIGwnYXV0b3Jpc2F0aW9uIGEgw6l0w6kgcmVmdXPDqWUgcHLDqWPDqWRlbW1lbnQsIG9uIHBldXQgcHLDqXZlbmlyIGwndXRpbGlzYXRldXIgaWNpCgogICAgICAgICAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgICAgICAgICAgICAgLy8gbCdhdXRvcmlzYXRpb24gbidhIGphbWFpcyDDqXTDqSByw6ljbGFtw6llLCBvbiBsYSBkZW1hbmRlIMOgIGwndXRpbGlzYXRldXIKCiAgICAgICAgICAgICAgICAgICAgQWN0aXZpdHlDb21wYXQucmVxdWVzdFBlcm1pc3Npb25zKE1haW5BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFN0cmluZ1tde01hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT059LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAwKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgIGluaXRMb2NhdGlvbigpOwogICAgICAgICAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMb2NhdGlvbkxpc3RlbmVyIG1Mb2NhdGlvbkxpc3RlbmVyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>textView3</text>
@@ -216,32 +215,61 @@
       <register name="/" type="4">
         <text>:%s</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHByaXZhdGUgdm9pZCBjaGVja1Blcm1pc3Npb24oKSB7CgogICAgICAgICAgICAvLyB2w6lyaWZpY2F0aW9uIGRlIGwnYXV0b3Jpc2F0aW9uIGQnYWNjw6lkZXIgw6AgbGEgcG9zaXRpb24gR1BTCgogICAgICAgICAgICBpZiAoQ29udGV4dENvbXBhdC5jaGVja1NlbGZQZXJtaXNzaW9uKE1haW5BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04pCiAgICAgICAgICAgICAgICAgICAgIT0gUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9HUkFOVEVEKSB7CgogICAgICAgICAgICAgICAgLy8gbCdhdXRvcmlzYXRpb24gbidlc3QgcGFzIGFjY2VwdMOpZQoKICAgICAgICAgICAgICAgIGlmIChBY3Rpdml0eUNvbXBhdC5zaG91bGRTaG93UmVxdWVzdFBlcm1pc3Npb25SYXRpb25hbGUoTWFpbkFjdGl2aXR5LnRoaXMsCiAgICAgICAgICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04pKSB7CgogICAgICAgICAgICAgICAgICAgIC8vIGwnYXV0b3Jpc2F0aW9uIGEgw6l0w6kgcmVmdXPDqWUgcHLDqWPDqWRlbW1lbnQsIG9uIHBldXQgcHLDqXZlbmlyIGwndXRpbGlzYXRldXIgaWNpCgogICAgICAgICAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgICAgICAgICAgICAgLy8gbCdhdXRvcmlzYXRpb24gbidhIGphbWFpcyDDqXTDqSByw6ljbGFtw6llLCBvbiBsYSBkZW1hbmRlIMOgIGwndXRpbGlzYXRldXIKCiAgICAgICAgICAgICAgICAgICAgQWN0aXZpdHlDb21wYXQucmVxdWVzdFBlcm1pc3Npb25zKE1haW5BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFN0cmluZ1tde01hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT059LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAwKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgIGluaXRMb2NhdGlvbigpOwogICAgICAgICAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjaGVja1Blcm1pc3Npb24oKSB7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBMb2NhdGlvbkxpc3RlbmVyIG1Mb2NhdGlvbkxpc3RlbmVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDYXJkKCkgewogICAgICAgIHRoaXMuaWQgPSBjb3VudGVyKys7CiAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="3" type="4">
+        <text>private void checkPermission() {
+
+            // vérification de l'autorisation d'accéder à la position GPS
+
+            if (ContextCompat.checkSelfPermission(MainActivity.this,
+                    Manifest.permission.ACCESS_FINE_LOCATION)
+                    != PackageManager.PERMISSION_GRANTED) {
+
+                // l'autorisation n'est pas acceptée
+
+                if (ActivityCompat.shouldShowRequestPermissionRationale(MainActivity.this,
+                        Manifest.permission.ACCESS_FINE_LOCATION)) {
+
+                    // l'autorisation a été refusée précédemment, on peut prévenir l'utilisateur ici
+
+                } else {
+
+                    // l'autorisation n'a jamais été réclamée, on la demande à l'utilisateur
+
+                    ActivityCompat.requestPermissions(MainActivity.this,
+                            new String[]{Manifest.permission.ACCESS_FINE_LOCATION},
+                            100);
+                }
+            }
+            else {
+                initLocation();
+            }</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IHByaXZhdGUgdm9pZCBjaGVja1Blcm1pc3Npb24oKSB7CgogICAgICAgICAgICAvLyB2w6lyaWZpY2F0aW9uIGRlIGwnYXV0b3Jpc2F0aW9uIGQnYWNjw6lkZXIgw6AgbGEgcG9zaXRpb24gR1BTCgogICAgICAgICAgICBpZiAoQ29udGV4dENvbXBhdC5jaGVja1NlbGZQZXJtaXNzaW9uKE1haW5BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04pCiAgICAgICAgICAgICAgICAgICAgIT0gUGFja2FnZU1hbmFnZXIuUEVSTUlTU0lPTl9HUkFOVEVEKSB7CgogICAgICAgICAgICAgICAgLy8gbCdhdXRvcmlzYXRpb24gbidlc3QgcGFzIGFjY2VwdMOpZQoKICAgICAgICAgICAgICAgIGlmIChBY3Rpdml0eUNvbXBhdC5zaG91bGRTaG93UmVxdWVzdFBlcm1pc3Npb25SYXRpb25hbGUoTWFpbkFjdGl2aXR5LnRoaXMsCiAgICAgICAgICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04pKSB7CgogICAgICAgICAgICAgICAgICAgIC8vIGwnYXV0b3Jpc2F0aW9uIGEgw6l0w6kgcmVmdXPDqWUgcHLDqWPDqWRlbW1lbnQsIG9uIHBldXQgcHLDqXZlbmlyIGwndXRpbGlzYXRldXIgaWNpCgogICAgICAgICAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgICAgICAgICAgICAgLy8gbCdhdXRvcmlzYXRpb24gbidhIGphbWFpcyDDqXTDqSByw6ljbGFtw6llLCBvbiBsYSBkZW1hbmRlIMOgIGwndXRpbGlzYXRldXIKCiAgICAgICAgICAgICAgICAgICAgQWN0aXZpdHlDb21wYXQucmVxdWVzdFBlcm1pc3Npb25zKE1haW5BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFN0cmluZ1tde01hbmlmZXN0LnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT059LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgMTAwKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgIGluaXRMb2NhdGlvbigpOwogICAgICAgICAgICB9</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlkID0gaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElkKGxvbmcgaWQpIHsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDYXJkKCkgewogICAgICAgIHRoaXMuaWQgPSBjb3VudGVyKys7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWUgPSB0aW1lOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvY2F0aW9uID0gbG9jYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlkID0gaWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnB1cnBvc2UgPSBwdXJwb3NlOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElkKGxvbmcgaWQpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/city/purpose/g</text>
